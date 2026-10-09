@@ -106,3 +106,4 @@ GET  /api/categories
 - Sales lock the product row, so two simultaneous sales cannot oversell.
 - Seed dates are relative to the moment you run `seed.sql`, so the dashboard always shows recent activity.
 # smart-inventory-retail
+# smart-inventory-retail
